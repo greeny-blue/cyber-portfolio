@@ -28,9 +28,8 @@ Projects applying statistical and machine learning techniques to security-releva
 - **[Network Flow Anomaly Detection](https://github.com/greeny-blue/network-flow-anomaly-detection)**  
   Comparative analysis of anomaly detection approaches on synthetic network traffic, including operating-point behaviour and calibration.
 
-- **Entropy as an Interpretable Signal in Network Traffic**  
-  A minimal exploration of Shannon entropy as a signal for anomalous port usage.  
-  → *Repo link to be added* ⚠️
+- **[Entropy as an Interpretable Signal in Network Traffic](https://github.com/greeny-blue/entropy-network-traffic-signal)**  
+  A minimal exploration of Shannon entropy as a signal for anomalous port usage.
 
 ---
 

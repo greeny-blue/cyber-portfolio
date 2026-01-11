@@ -25,9 +25,8 @@ Projects focused on building small, purposeful tools to support defensive analys
 
 Projects applying statistical and machine learning techniques to security-relevant data, with an emphasis on interpretability and evaluation.
 
-- **Network Flow Anomaly Detection**  
-  Comparative analysis of anomaly detection approaches on synthetic network traffic, including operating-point behaviour and calibration.  
-  → [Network Flow Anomaly Detection](https://github.com/greeny-blue/network-flow-anomaly-detection)
+- **[Network Flow Anomaly Detection](https://github.com/greeny-blue/network-flow-anomaly-detection)**  
+  Comparative analysis of anomaly detection approaches on synthetic network traffic, including operating-point behaviour and calibration.
 
 - **Entropy as an Interpretable Signal in Network Traffic**  
   A minimal exploration of Shannon entropy as a signal for anomalous port usage.  

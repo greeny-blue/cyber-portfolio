@@ -37,9 +37,8 @@ Projects applying statistical and machine learning techniques to security-releva
 
 Longer-form, exploratory work aimed at understanding complex system behaviour relevant to security contexts.
 
-- **Cascade Modelling in Networked Systems**  
-  An exploratory research project examining cascade dynamics in network topologies and their implications for SOC-style systems.  
-  → *Repo link to be added* ⚠️
+- **[Cascade Modelling in Networked Systems](https://github.com/greeny-blue/cascade-modelling-networked-systems)**
+  An exploratory research project examining cascade dynamics in network topologies and their implications for SOC-style systems.
 
 ---
 

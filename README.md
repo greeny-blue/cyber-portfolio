@@ -10,7 +10,7 @@ The emphasis throughout is on:
 - responsible, defensive security practice
 - clear documentation and stated boundaries
 
-This work is implemented primarily in Python, with supporting tooling in R and Bash. Projects are often developed first as Jupyter notebooks for exploratory analysis and documentation, then refactored into reusable scripts and tools. The repository also incorporates practical engineering practices such as Makefiles for reproducible workflows, cross-platform compatibility, custom visualisation using pygame and benchmarking frameworks for evaluating machine learning models. In addition to defensive tooling, the portfolio includes exploratory work and the early stages of a larger research-focused investigation into security data and detection techniques.
+This work is implemented primarily in **Python**, with supporting tooling in **R** and **Bash**. Projects are often developed first as Jupyter notebooks for exploratory analysis and documentation, then refactored into reusable scripts and tools. The repository also incorporates practical engineering practices such as **Makefiles** for reproducible workflows, **cross-platform compatibility**, custom visualisation using pygame and **benchmarking** frameworks for evaluating machine learning models. In addition to defensive tooling, the portfolio includes exploratory work and the early stages of a larger research-focused investigation into security data and detection techniques.
 
 ---
 

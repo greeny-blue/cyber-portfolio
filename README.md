@@ -15,13 +15,12 @@ The emphasis throughout is on:
 
 Projects focused on building small, purposeful tools to support defensive analysis and learning.
 
-- **Cyber Tools Navigator (CLI)**  
-  A command-line utility for exploring and filtering cybersecurity tools by category, platform and use-case.  
-  → *Repo link to be added* ⚠️
+- **Cyber Tools Navigator (CLI) - ⚠️COMING SOON⚠️**  
+  A command-line utility for exploring and filtering cybersecurity tools by category, platform and use-case.
 
 ---
 
-## Applied Detection & Analysis
+## Applied Detection, Analysis and Network Visibility
 
 Projects applying statistical and machine learning techniques to security-relevant data, with an emphasis on interpretability and evaluation.
 
@@ -30,6 +29,9 @@ Projects applying statistical and machine learning techniques to security-releva
 
 - **[Entropy as an Interpretable Signal in Network Traffic](https://github.com/greeny-blue/entropy-network-traffic-signal)**  
   A minimal exploration of Shannon entropy as a signal for anomalous port usage.
+
+- **[Home Network Monitoring Toolkit]([URL](https://github.com/greeny-blue/home-network-monitoring))**  
+  Experimental tooling for analysing activity on a local network. Includes [**homemap**](https://github.com/greeny-blue/home-network-monitoring/tree/main/homemap), a lightweight scanner exploring host discovery, ARP mapping and basic port enumeration, alongside early work investigating how passive observation of network traffic might reveal device behaviour, communication patterns and external endpoints in IoT-heavy environments.
 
 ---
 

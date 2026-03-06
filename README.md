@@ -47,16 +47,18 @@ Projects focused on building small, purposeful tools to support defensive analys
 
 ---
 
-## Background & Training
+## Background and Training
 
 My background is in academic data science and analytical tooling, and I am now applying those skills to cybersecurity while continuing to strengthen my software engineering and systems knowledge. Foundational security knowledge has been developed through self-directed study, including Cybrary’s Network+ and Security+ material and the TryHackMe Presecurity, Cybersecurity 101 and SOC Level 1 learning paths.
 
-My current focus is translating this theoretical foundation into practical defensive analysis and tooling, building small but well-documented projects that explore how security data can be analysed, interpreted and operationalised.
+My current focus is translating this theoretical foundation into practical defensive analysis and tooling, building small but well-documented projects that explore how security data can be analysed, interpreted and operationalised. Many projects examine how security data can be structured, visualised and interpreted in ways that support human analysts in identifying patterns, anomalies and meaningful signals within complex systems.
 
 ---
 
-## Ethics & Boundaries
+## Ethics and Boundaries
 
 All work is conducted in controlled, ethical contexts using synthetic or non-sensitive data.  
 Projects are defensive in nature and intended for learning, analysis and resilience-focused use cases.
+
+---
 

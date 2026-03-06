@@ -1,7 +1,8 @@
 # Cyber Portfolio
 
 This repository acts as a curated hub for my cybersecurity work.  
-It brings together practical defensive tooling, applied network analysis, and exploratory research projects developed through self-directed learning and hands-on experimentation.
+
+It brings together practical defensive tooling, applied network analysis and exploratory research projects developed through self-directed learning and hands-on experimentation.
 
 The emphasis throughout is on:
 - learning through building
@@ -9,14 +10,7 @@ The emphasis throughout is on:
 - responsible, defensive security practice
 - clear documentation and stated boundaries
 
----
-
-## Practical Security Tooling
-
-Projects focused on building small, purposeful tools to support defensive analysis and learning.
-
-- **Cyber Tools Navigator (CLI) - ⚠️COMING SOON⚠️**  
-  A command-line utility for exploring and filtering cybersecurity tools by category, platform and use-case.
+This work is implemented primarily in Python, with supporting tooling in R and Bash. Projects are often developed first as Jupyter notebooks for exploratory analysis and documentation, then refactored into reusable scripts and tools. The repository also incorporates practical engineering practices such as Makefiles for reproducible workflows, cross-platform compatibility, custom visualisation using pygame and benchmarking frameworks for evaluating machine learning models. In addition to defensive tooling, the portfolio includes exploratory work and the early stages of a larger research-focused investigation into security data and detection techniques.
 
 ---
 
@@ -44,10 +38,20 @@ Longer-form, exploratory work aimed at understanding complex system behaviour re
 
 ---
 
+## Practical Security Tooling
+
+Projects focused on building small, purposeful tools to support defensive analysis and learning.
+
+- **Cyber Tools Navigator (CLI) - ⚠️COMING SOON⚠️**  
+  A command-line utility for exploring and filtering cybersecurity tools by category, platform and use-case.
+
+---
+
 ## Background & Training
 
-Foundational cybersecurity knowledge developed through self-directed study. I have completed Cybrary Network+ and Security+ material and TryHackMe Presecurity, Cybersecurity 101 and SOC Level 1.  
-Current focus is on translating this foundation into applied defensive analysis and tooling.
+My background is in academic data science and analytical tooling, and I am now applying those skills to cybersecurity while continuing to strengthen my software engineering and systems knowledge. Foundational security knowledge has been developed through self-directed study, including Cybrary’s Network+ and Security+ material and the TryHackMe Presecurity, Cybersecurity 101 and SOC Level 1 learning paths.
+
+My current focus is translating this theoretical foundation into practical defensive analysis and tooling, building small but well-documented projects that explore how security data can be analysed, interpreted and operationalised.
 
 ---
 

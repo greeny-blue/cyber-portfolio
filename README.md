@@ -53,11 +53,18 @@ My background is in academic data science and analytical tooling, and I am now a
 
 My current focus is translating this theoretical foundation into practical defensive analysis and tooling, building small but well-documented projects that explore how security data can be analysed, interpreted and operationalised. Many projects examine how security data can be structured, visualised and interpreted in ways that support human analysts in identifying patterns, anomalies and meaningful signals within complex systems.
 
+I'm currently building a [data-science-notes](https://github.com/greeny-blue/data-science-notes) repository where I collect small experiments, intuition-building notebooks, a [machine learning "curiosity corner”](https://github.com/greeny-blue/data-science-notes/blob/main/ml-curiosity-corner/Extreme%20examples%20-%20Noise%20and%20high-dimensional%20data.ipynb), little examples of [OSINT](https://github.com/greeny-blue/data-science-notes/blob/main/osint/russian-invasion-of-ukraine/personnel-and-vehicle-losses/Russian-personnel-and-vehicle-losses.md) work, etc.
+
+It's very much under construction and intentionally more informal — a place for interesting ideas and small demonstrations rather than polished portfolio projects.
+
+My cybersecurity portfolio remains the main place where I present more structured work.
+
 ---
 
 ## Ethics and Boundaries
 
-All work is conducted in controlled, ethical contexts using synthetic or non-sensitive data.  
+All work is conducted in controlled, ethical contexts using synthetic or non-sensitive data.
+
 Projects are defensive in nature and intended for learning, analysis and resilience-focused use cases.
 
 ---

@@ -10,12 +10,12 @@ The emphasis throughout is on:
 - responsible, defensive security practice
 - clear documentation and stated boundaries
 
-This work is implemented primarily in **Python**, but also **R** and **Bash**. Projects are typically developed as standalone scripts and tools, then presented and documented through Jupyter notebooks that can be downloaded and run locally. The repository combines security analysis tooling with exploratory work on security data and detection techniques.
+This work is implemented primarily in **Python**, but also **R** and **shell** scripting. Projects are typically developed as standalone scripts and tools, then presented and documented through Jupyter notebooks that can be downloaded and run locally. The repository combines security analysis tooling with exploratory work on security data and detection techniques.
 
 Some features of the projects include:
 
 - **Reproducible workflows using Makefiles**
-- **Cross-platform scripting** designed to run cleanly across environments
+- **Cross-platform scripting** designed to run cleanly across Unix-based environments
 - **Benchmarking frameworks** for evaluating machine learning models
 - **Custom visualisation**, including graphical interfaces built with `pygame`
 - **Interactive elements** using `ipywidgets` and `Shiny`

@@ -68,7 +68,7 @@ My current focus is translating this theoretical foundation into practical defen
 
 I'm currently building a **[data-science-notes](https://github.com/greeny-blue/data-science-notes)** repository where I collect small experiments, intuition-building notebooks, a **[machine learning "curiosity corner”](https://github.com/greeny-blue/data-science-notes/blob/main/ml-curiosity-corner)**, little examples of **[OSINT](https://github.com/greeny-blue/data-science-notes/blob/main/osint/russian-invasion-of-ukraine/personnel-and-vehicle-losses/Russian-personnel-and-vehicle-losses.md)** work, etc.
 
-It's very much under construction and intentionally more informal — a place for interesting ideas and small demonstrations rather than polished portfolio projects. (However, I've included a gallery of [interactive apps](https://github.com/greeny-blue/data-science-notes/tree/main/interactive-apps) I have authored.)
+It's very much under construction and intentionally more informal — a place for interesting ideas and small demonstrations rather than polished portfolio projects. (However, I've included a gallery of **[interactive apps](https://github.com/greeny-blue/data-science-notes/tree/main/interactive-apps)** I have authored.)
 
 My cybersecurity portfolio remains the main place where I present more structured work.
 

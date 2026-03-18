@@ -38,7 +38,7 @@ Projects applying statistical and machine learning techniques to security-releva
   A lightweight interactive R Shiny application for exploring parsed PCAP data through filtering, tabulation, and visualisation.
 
 - **[Home Network Monitoring Toolkit](https://github.com/greeny-blue/home-network-monitoring)**  
-  Experimental tooling for analysing activity on a local network. Includes [**homemap**](https://github.com/greeny-blue/home-network-monitoring/tree/main/homemap), a lightweight scanner exploring host discovery, ARP mapping and basic port enumeration, alongside early work investigating how passive observation of network traffic might reveal device behaviour, communication patterns and external endpoints in IoT-heavy environments.
+  Experimental tooling for analysing activity on a local network. Includes [**homemap**](https://github.com/greeny-blue/home-network-monitoring/tree/main/homemap), a lightweight **Nmap**-like scanner exploring host discovery, ARP mapping and basic port enumeration, alongside early work investigating how passive observation and sniffing of home network traffic might reveal device behaviour, communication patterns and external endpoints in IoT-heavy environments.
 
 ---
 

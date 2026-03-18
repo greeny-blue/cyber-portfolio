@@ -32,7 +32,7 @@ Projects applying statistical and machine learning techniques to security-releva
   Comparative analysis of anomaly detection approaches on synthetic network traffic, including operating-point behaviour and calibration.
 
 - **[Entropy as an Interpretable Signal in Network Traffic](https://github.com/greeny-blue/entropy-network-traffic-signal)**  
-  A minimal exploration of Shannon entropy as a signal for anomalous port usage.
+  A minimal exploration of Shannon entropy as a signal for anomalous network activity, using port traffic as an example.
 
 - **[PacketScopeR: Interactive PCAP Explorer](https://github.com/greeny-blue/packetscoper)**  
   A lightweight interactive R Shiny application for exploring parsed PCAP data through filtering, tabulation, and visualisation.

@@ -1,8 +1,10 @@
 # Cyber Portfolio
 
-This repository acts as a curated hub for my cybersecurity work.  
+This repository acts as a curated hub for my cybersecurity work. 
 
-It brings together practical defensive tooling, applied network analysis and exploratory research projects developed through self-directed learning and hands-on experimentation.
+It brings together practical defensive tooling, applied network analysis and exploratory research projects developed through self-directed learning and hands-on experimentation. 
+
+The portfolio is **actively evolving**: projects are iterated on, extended and refined over time as new ideas are tested and capabilities deepen.
 
 The emphasis throughout is on:
 - learning through building

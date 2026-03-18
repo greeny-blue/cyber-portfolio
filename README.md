@@ -17,7 +17,7 @@ This work is implemented primarily in **Python**, but also **R** and **shell** s
 Some features of the projects include:
 
 - **Reproducible workflows using Makefiles**
-- **Cross-platform scripting** designed to run cleanly across Unix-based environments
+- **Cross-platform scripting** designed to run cleanly across **Unix**-based environments, including resuable **helper functions** and **wrappers**
 - **Benchmarking frameworks** for evaluating machine learning models
 - **Custom visualisation**, including graphical interfaces built with `pygame`
 - **Interactive elements** using `ipywidgets` and `Shiny`

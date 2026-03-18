@@ -20,7 +20,7 @@ Some features of the projects include:
 - **Cross-platform scripting** designed to run cleanly across **Unix**-based environments, including resuable **helper functions** and **wrappers**
 - **Benchmarking frameworks** for evaluating machine learning models
 - **Custom visualisation**, including graphical interfaces built with `pygame`
-- **Interactive elements and applications** using `ipywidgets` and `Shiny`
+- **Interactive notebook elements** and **applications** using `ipywidgets` and `Shiny`
 
 ---
 
